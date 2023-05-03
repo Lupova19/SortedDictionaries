@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\obj\Debug\Phonebook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\Phonebook\obj\Debug\Phonebook.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\bin\Debug\RealNums.exe.config
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\bin\Debug\RealNums.exe
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\bin\Debug\RealNums.pdb
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\obj\Debug\RealNums.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\obj\Debug\RealNums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\obj\Debug\RealNums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\obj\Debug\RealNums.exe
+C:\Users\Admin\Desktop\Lupova19\SortedDictionary\RealNums\obj\Debug\RealNums.pdb
